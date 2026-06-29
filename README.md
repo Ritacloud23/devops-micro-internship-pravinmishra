@@ -13,11 +13,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
+| **Name** | Ugwuanyi Nnenna Rita |
+| **LinkedIn** | (https://www.linkedin.com/in/rita-nnenna) |
+| **Location** | Nigeira |
 | **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| 
 
 ---
 
