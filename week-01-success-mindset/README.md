@@ -392,8 +392,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **[ADD LINK HERE](https://www.linkedin.com/posts/rita-nnenna_biggest-insight-i-got-about-myself-this-week-share-7477325764435271680-j3cb/?utm_source=share&utm_medium=member_android&rcm=ACoAADo1m4UBTVr5usFUGVrxYYC16T65uhOgGWU)E**  
-- Blog / Medium : **[ADD LINK HERE](https://medium.com/@ugwuanyinnenna43/ugwuanyi-nnenna-rita-2-0-2030-0977ef9dc15c?sharedUserId=ugwuanyinnenna43)**  
+- LinkedIn Post URL: **(https://www.linkedin.com/posts/rita-nnenna_biggest-insight-i-got-about-myself-this-week-share-7477325764435271680-j3cb/?utm_source=share&utm_medium=member_android&rcm=ACoAADo1m4UBTVr5usFUGVrxYYC16T65uhOgGWU)E**  
+- Blog / Medium : **(https://medium.com/@ugwuanyinnenna43/ugwuanyi-nnenna-rita-2-0-2030-0977ef9dc15c?sharedUserId=ugwuanyinnenna43)**  
 
 ---
 
