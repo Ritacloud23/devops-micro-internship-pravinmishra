@@ -16,8 +16,8 @@
 | **Name** | Ugwuanyi Nnenna Rita |
 | **LinkedIn** | (https://www.linkedin.com/in/rita-nnenna) |
 | **Location** | Nigeira |
-| **Background** | Cloud, DevOps & AI Consultant |
-| 
+| **Background** | Cloud, DevOps Engineer |
+
 
 ---
 
