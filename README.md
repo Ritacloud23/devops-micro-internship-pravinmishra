@@ -17,7 +17,7 @@
 | **LinkedIn** | (https://www.linkedin.com/in/rita-nnenna) |
 | **Location** | Nigeira |
 | **Background** | Cloud, DevOps Engineer |
-| 
+
 
 ---
 
