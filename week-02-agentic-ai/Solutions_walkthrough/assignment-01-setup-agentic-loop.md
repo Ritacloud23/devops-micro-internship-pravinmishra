@@ -210,6 +210,7 @@ You will see a screen similar to the one below. Press Enter.
 
 ---
 
+
 ### Step 3 — Fork the Starter Repository
 
 1. Login to your GitHub account

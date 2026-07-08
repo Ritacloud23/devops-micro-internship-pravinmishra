@@ -20,13 +20,13 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
-Add your screenshot here.
+![Terminal showing claude --version](./screenshots/claude-version.jpeg)
 
 ---
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
-Add your screenshot here.
+![Claude Code authenticated showing terminal prompt](./screenshots/claude-code-authenticated.jpeg)
 
 ---
 
@@ -40,7 +40,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-Add your screenshot here.
+![VS Code with project open showing file tree](./screenshots/vscode-project-open.jpeg)
 
 ---
 
@@ -54,13 +54,13 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
-Add your screenshot here.
+![First question asked to Claude Code](./screenshots/first-question.jpeg)
 
 ---
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
-Add your screenshot here.
+![First question asked to Claude Code](./screenshots/second-question.jpeg)
 
 ---
 
@@ -77,18 +77,18 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`___https://github.com/Ritacloud23/Ultimate-Agentic-DevOps-with-Claude-Code.git_______________________`
 
 ---
 
 # Completion Checklist
 
-- [ ] Claude Code CLI installed successfully
-- [ ] Claude Code authenticated successfully
-- [ ] Repository forked successfully
-- [ ] Repository cloned and opened in VS Code
-- [ ] All required screenshots added
-- [ ] GitHub repository URL provided
+- [x] Claude Code CLI installed successfully
+- [x] Claude Code authenticated successfully
+- [x] Repository forked successfully
+- [x] Repository cloned and opened in VS Code
+- [x] All required screenshots added
+- [x] GitHub repository URL provided
 
 ---
 
