@@ -20,7 +20,7 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-Add your screenshot here.
+![Task 1 Evidence](screenshots/Evidence-01.jpeg)
 
 ---
 
@@ -35,7 +35,7 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
 
-Add your screenshot here.
+![Task 2 Evidence](screenshots/Evidence-02.jpeg)
 
 ---
 
@@ -49,8 +49,8 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
-
+![Task 3 Evidence](screenshots/Evidence-3a.jpeg)
+![Task 3 Evidence](screenshots/Evidence-3b.jpeg)
 ---
 
 # Task 4 — Test the After State
@@ -63,13 +63,13 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
+![Task 4 Evidence](screenshots/Evidence-04.jpeg)
 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
+![Task 5 Evidence](screenshots/Evidence-05.jpeg)
 
 ---
 
@@ -83,7 +83,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+![Task 6 Evidence](screenshots/Evidence-06.jpeg)
 
 ---
 
@@ -99,7 +99,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/Ritacloud23/Ultimate-Agentic-DevOps-with-Claude-Code.git__________________________`
 
 ---
 
