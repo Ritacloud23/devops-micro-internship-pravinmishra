@@ -20,8 +20,7 @@ Identify where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-Add your screenshot here.
-
+![Memory file](screenshots/Memory-file.jpeg)
 ---
 
 # Task 2 — Give Claude Information to Remember
@@ -34,13 +33,13 @@ Store project-specific rules and configurations into Claude’s memory and verif
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-Add your screenshot here.
+![Claude Information](screenshots/Claude-%20Information.jpeg)
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-Add your screenshot here.
+![Memo](screenshots/memo.jpeg)
 
 ---
 
@@ -54,7 +53,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-Add your screenshot here.
+![Claude Code session](screenshots/Claude%20Code%20session.jpeg)
 
 ---
 
@@ -68,13 +67,13 @@ Verify that Claude correctly recalls stored memory after a full session reset.
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+![Section colors](screenshots/section%20colors.jpeg)
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-Add your screenshot here.
+![Refusing JavaScript](screenshots/refusing%20JavaScript.jpeg)
 
 ---
 
@@ -91,19 +90,19 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/Ritacloud23/devops-micro-internship-pravinmishra.git__________________________`
 
 ---
 
 # Completion Checklist
 
-- [ ] Memory file path identified (Screenshot 1)
-- [ ] Memory successfully saved via prompt (Screenshot 2)
-- [ ] `MEMORY.md` shows stored content (Screenshot 3)
-- [ ] Fresh session opened after full restart (Screenshot 4)
-- [ ] Claude recalled hero colors correctly (Screenshot 5)
-- [ ] Claude refused JavaScript request based on memory (Screenshot 6)
-- [ ] All screenshots added and committed to GitHub repo
+- [x] Memory file path identified (Screenshot 1)
+- [x] Memory successfully saved via prompt (Screenshot 2)
+- [x] `MEMORY.md` shows stored content (Screenshot 3)
+- [x] Fresh session opened after full restart (Screenshot 4)
+- [x] Claude recalled hero colors correctly (Screenshot 5)
+- [x] Claude refused JavaScript request based on memory (Screenshot 6)
+- [x] All screenshots added and committed to GitHub repo
 
 ---
 
